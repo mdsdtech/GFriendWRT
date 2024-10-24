@@ -4,3 +4,8 @@ Banana Pi BPIR3 Mini:
 1. V211024:
 - Based on ImmortalWrt Release 23.05.4
 - Kernel 5.15.167
+
+Banana Pi BPIR4:
+1. V211024:
+- Based on ImmortalWrt Snapshot 19-10-2024
+- Kernel 6.6.56
