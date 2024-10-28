@@ -31,4 +31,3 @@ Project Link: [https://github.com/mdsdtech/GFriendWRT](https://github.com/mdsdte
 - [immortalwrt](https://github.com/immortalwrt/immortalwrt)
 - [passwall2](https://github.com/xiaorouji/openwrt-passwall2)
 - [wwan-packages](https://github.com/immortalwrt/wwan-packages)
-- [5G-Modem-Support](https://github.com/Siriling/5G-Modem-Support)
