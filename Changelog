@@ -1,16 +1,36 @@
 # Change Logs
-
+----------------------------------------
+-         Banana Pi BPIR3 Mini         -
+----------------------------------------
 Banana Pi BPIR3 Mini:
 1. V211024:
 - Based on ImmortalWrt Release 23.05.4
 - Kernel 5.15.167
 
+----------------------------------------
+-           Banana Pi BPIR4            -
+----------------------------------------
 Banana Pi BPIR4:
 1. V211024:
 - Based on ImmortalWrt Snapshot 19-10-2024
 - Kernel 6.6.56
 
 Banana Pi BPIR4-PoE:
-1. V211024:
+2. V211024:
 - Based on ImmortalWrt Snapshot 19-10-2024
 - Kernel 6.6.56
+
+**Upcoming Release
+Banana Pi BPIR4:
+1. V061124:
+- Based on ImmortalWrt Snapshot 06-11-2024
+- Kernel 6.6.59
+- Fixed RM520N soft reboot
+- Set default TTL 66 IPV4/6
+
+Banana Pi BPIR4-PoE:
+2. V061124:
+- Based on ImmortalWrt Snapshot 06-11-2024
+- Kernel 6.6.59
+- Fixed RM520N soft reboot
+- Set default TTL 66 IPV4/6
