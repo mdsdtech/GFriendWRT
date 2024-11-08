@@ -20,6 +20,16 @@ Banana Pi BPIR4-PoE:
 - Based on ImmortalWrt Snapshot 19-10-2024
 - Kernel 6.6.56
 
+Banana Pi BPIR4:
+1. V011124:
+- Based on ImmortalWrt Snapshot 01-11-2024
+- Kernel 6.6.58
+
+Banana Pi BPIR4-PoE:
+2. V011124:
+- Based on ImmortalWrt Snapshot 01-11-2024
+- Kernel 6.6.58
+
 **Upcoming Release
 Banana Pi BPIR4:
 1. V061124:
