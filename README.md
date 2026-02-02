@@ -32,3 +32,4 @@ Project Link: [https://github.com/mdsdtech/GFriendWRT](https://github.com/mdsdte
 - [passwall2](https://github.com/xiaorouji/openwrt-passwall2)
 - [wwan-packages](https://github.com/immortalwrt/wwan-packages)
 - [kwrt-packages](https://github.com/kiddin9/kwrt-packages)
+- [qmodem](https://github.com/FUjr/QModem)
