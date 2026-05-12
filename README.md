@@ -21,6 +21,12 @@ For the best experience, it is highly recommended to use **luci-app-modem** for 
 - **LuCI**: The main web interface for configuring your router and modem.
 - **luci-app-modem**: A recommended module for dialing and managing your 5G modem. Ensure that this app is enabled and configured for dialing purposes.
 
+## Device Firmware:
+1. Banana Pi BPI-R4/2.5GE/PoE
+2. Banana Pi BPI-R3 Mini
+3. MangoPi M28C
+4. NLnet XiGuaPi V3 (西瓜皮v3)
+
 ## License
 Distributed under the GPL2.0 License. See [GPL2.0 License](https://github.com/mdsdtech/GFriendWRT/tree/main?tab=GPL-2.0-1-ov-file) for more information.
 
